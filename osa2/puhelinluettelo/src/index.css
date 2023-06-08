@@ -1,0 +1,38 @@
+.added{
+    color: green;
+    background: lightgray;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 3px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.removed{
+    color: red;
+    background: lightgray;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 3px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.changed{
+    color: skyblue;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 3px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.error{
+    color: orangered;
+    background: lightgray;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 3px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
