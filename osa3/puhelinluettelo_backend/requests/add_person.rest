@@ -1,0 +1,7 @@
+POST https://puhelinluettelo-k345.onrender.com/api/persons
+Content-Type: application/json
+
+{
+    "name": "other name",
+    "number": "1232131"
+}
